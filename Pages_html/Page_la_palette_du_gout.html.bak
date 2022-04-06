@@ -1,26 +1,19 @@
-<!DOCTYPE html> <!-- Le Doctype signifie Document Type Declaration  est une instruction qui apparaît obligatoirement au début de  HTML5 pour informer le validateur de la version du langage utilisé, HTML5.  -->
-<html lang="en">  <!--L'elément <html> est l'élément racine d'une page html ---------------------------------->
-<!--Entête du document contient des information relative à la page .----------------------------------------->
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-  <title>La palette du gout</title><!--Titre du document html-->
-  <!--La balise meta et plus précisément la balise meta description permet d'ajouter une description d'une page affichée, 
-	ainsi que des mots-clés pour lesquels on souhaite optimiser une page. Cette balise permet d'informer les moteurs de recherche 
-	ainsi que les internautes du contenu de la page.-->
-  <meta name="description" content="À la française" />
-  <meta name= "author" lang="fr" content= "René Foaleng Lowe" />
-  <meta name="copyright" content="René Foaleng Lowe" />
-  <meta charset="UTF-8"><!--UTF-8, qui signifie "UCS transformation format 8 bits" est un codage de caractères informatiques permettant de coder l'ensemble des caractères internationaux, comme par exemple les accents, les majuscules-->
+  <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Le viewport est la partie d'une page web visible dans la fenêtre du navigateur d'un ordinateur ou d'un smartphone. Le viewport varie selon la taille de la fenêtre du navigateur et selon l'utilisation des fonctions de défilement ou scrolling (souris ou ascenseur)-->
-  <link rel="stylesheet" href="../normalize.css"> <!-- Fichier CSS utilisé pour uniformiser les différences d'interprétation des feuilles de style en cascade. Avec ce fichier, chaque élément HTML conserve la même apparence quel que soit le navigateur utilisé pour le visualiser.-->
-  <script src="https://kit.fontawesome.com/d8454b4167.js" crossorigin="anonymous"></script>  <!-- Font Awesome est une police d'écriture et un outil d'icônes qui se base sur CSS, Less et Sass.-->
-  <link rel="preconnect" href="https://fonts.googleapis.com"> <!-- Google Fonts (appelé Google Webfonts avant juin 2013) est un service d’hébergement gratuit de polices d’écritures pour le Web, démarré en 2010.-->
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <!-- Gstatic est un domaine qui appartient à Google. Il a un rôle particulier à jouer en aidant le contenu de Google à se charger plus rapidement à partir de son CDN ou de son réseau de diffusion de contenu. En dehors de cela, le domaine fait ce qui suit :-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../normalize.css">
+  <script src="https://kit.fontawesome.com/d8454b4167.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Shrikhand&display=swap"
     rel="stylesheet">
   <link rel="stylesheet" href="../sass/main.css">
-</head><!--Fin Entête du document .--------------------------------->
-<body> <!--Corps du document .--------------------------------->
+  <title>La palette du gout</title>
+</head>
 <header>
   <div class="header">
     <div class="arrow">
