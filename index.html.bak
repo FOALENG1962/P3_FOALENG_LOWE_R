@@ -1,6 +1,6 @@
-<!DOCTYPE html> <!-- Le Doctype signifie Document Type Declaration  est une instruction qui apparaît obligatoirement au début de  HTML5 pour informer le validateur de la version du langage utilisé, HTML5.  -->
-<html lang="en"> <!--L'elément <html> est l'élément racine d'une page html ---------------------------------->
-<!--Entête du document contient des information relative à la page .----------------------------------------->
+<!DOCTYPE html> <!-- Le Doctype signifie Document Type Declaration  est une instruction qui apparaît obligatoirement au début de  HTML5 pour informer le validateur de la version du langage utilisé, HTML5-->
+<html lang="en"> <!--L'elément <html> est l'élément racine d'une page html---------------------------------->
+<!--Entête du document contient des information relative à la page----------------------------------------->
   <head>
    <title>Ohmyfood</title>    <!--Titre du document html-->
    <!--La balise meta et plus précisément la balise meta description permet d'ajouter une description d'une page affichée, 
