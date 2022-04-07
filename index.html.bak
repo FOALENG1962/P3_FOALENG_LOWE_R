@@ -41,25 +41,9 @@
   
   
   
-  <!--<div class="position">-->
-    <!--<p><i class="fas fa-map-marker-alt position_icon"></i>Paris, Belleville</p>-->
-  <!--</div>-->
-  
-  
-  
-  
-  
-    <div class="input">
-      <i class="input__icon fas fa-map-marker-alt"></i>
-      <input
-        class="input__location"
-        type="text"
-        id="city"
-        placeholder="Paris, Belleville"
-      />
-    </div>
-  
-  
+  <div class="position">
+    <p><i class="fas fa-map-marker-alt position_icon"></i>Paris, Belleville</p>
+  </div>-->
   
   
   
