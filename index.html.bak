@@ -32,9 +32,44 @@
   <img src="Maquettes/images/logo/ohmyfood.png" alt="logo">
   </div>
 </header>
-  <div class="position">
-    <p><i class="fas fa-map-marker-alt position_icon"></i>Paris, Belleville</p>
-  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!--<div class="position">-->
+    <!--<p><i class="fas fa-map-marker-alt position_icon"></i>Paris, Belleville</p>-->
+  <!--</div>-->
+  
+  
+  
+  <div class="loader"></div>
+ <!------------------------------------------------------on precise ici le logo de l'entreprise qui gère les restaurant. (ohmyfood)---------->
+    <header>
+      <h1><img id="logo" src="assets/logo/ohmyfood.png" alt="logo oh my food" /></h1>
+    </header>
+ <!------------------------------------------------------on precise on fait une recherche de restaurant en saisissant un nom de restaurant---------->
+  
+  
+    <div class="input">
+      <i class="input__icon fas fa-map-marker-alt"></i>
+      <input
+        class="input__location"
+        type="text"
+        id="city"
+        placeholder="Paris, Belleville"
+      />
+    </div>
+  
+  
+  
+  
+  
+  
   <div class="head">
     <div class="head_bloc">
     <h1>Réservez le menu qui vous convient</h1>
